@@ -1,12 +1,16 @@
 # Nikita Kalyakin
 
 Junior Frontend Developer
+
 ***
+
 Contact information
 
-*Phone:* +79141012440
-*E-mail:* forrkko@gmail.com
-*Telegram:* @Lastllegacy
+**Phone:** +79141012440
+
+**E-mail:** forrkko@gmail.com
+
+**Telegram:** @Lastllegacy
 
 ***
 
@@ -18,7 +22,7 @@ Now im in Novosibirsk working as a barista in a best brew-bar or coffee shop nam
 
 Had self-studying Frontend Development for about 3-4 months and decided to get courses mainly because of a mentor. I believe that my pesistence and feedback from mentor will lead me through tough path of becoming Frontend Developer.
 
-# ***
+***
 
 ### Skills 
 
@@ -31,25 +35,25 @@ Had self-studying Frontend Development for about 3-4 months and decided to get c
 * VS Code
 * Git, Github
 
-# ***
+***
 
 # Code example: 
 
-# Product list
 
-Source code: https://github.com/Lastllegacy/vue-junior-task
+### Product list
 
-Live: https://lastllegacy.github.io/vue-junior-task/
+**Source code:** https://github.com/Lastllegacy/vue-junior-task
+
+**Live:** https://lastllegacy.github.io/vue-junior-task/
 
 In this project i learnt vue 3 and how to interact with it. Also write on composition API style and made some simple animation coupled with validation, w/0 external libraries. It's responsive and adaptive, so it allows you to use the application from different devices
 
 
-
 ### Cat pinterest
 
-Source code: https://github.com/Lastllegacy/frontend-trainee
+**Source code:** https://github.com/Lastllegacy/frontend-trainee
 
-Live: https://lastllegacy.github.io/frontend-trainee/
+**Live:** https://lastllegacy.github.io/frontend-trainee/
 
 Junior test-task project. In this small react project i learnt to work with react hooks and load data from external api to react
 
@@ -58,6 +62,8 @@ Junior test-task project. In this small react project i learnt to work with reac
 ### Languages:
 
 English - B2/C1
+
 Russian - native
+
 Spanish - A2
 
